@@ -9,6 +9,6 @@
 [Donate V2Ray](https://www.v2ray.com/chapter_00/02_donate.html)
 
 ## Wiki
-[Wiki 1]https://github.com/233boy/v2ray/wiki
+[Wiki 1](https://github.com/233boy/v2ray/wiki)
 
-[Wiki 2]https://github.com/LingLuoEtherealling/V2/wiki
+[Wiki 2](https://github.com/LingLuoEtherealling/V2/wiki)
